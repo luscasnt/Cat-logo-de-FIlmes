@@ -1,0 +1,16 @@
+body {
+    background: rgb(62, 62, 233))
+    color: whitesmoke;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: solid 3px whitesmoke;
+    margin-left: 80;
+    margin-right: 80;
+}
+
+section{
+    display: flex;
+}
